@@ -21,7 +21,7 @@ This project uses:
 - PyAutoGUI
 
 ## 📷 Demo
-Screenshot 2026-01-22 124654.png
+![Hand Gesture Control Demo](Screenshot%202026-01-22%20124654.png)
 
 ## ▶ How to Run
 ```bash
