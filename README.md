@@ -21,7 +21,7 @@ This project uses:
 - PyAutoGUI
 
 ## 📷 Demo
-(Add demo.mp4 or GIF here)
+Screenshot 2026-01-22 124654.png
 
 ## ▶ How to Run
 ```bash
