@@ -20,8 +20,7 @@ This project uses:
 - MediaPipe
 - PyAutoGUI
 
-## 📷 Demo
-![Hand Gesture Control Demo](Screenshot%202026-01-22%20124654.png)
+
 
 ## ▶ How to Run
 ```bash
